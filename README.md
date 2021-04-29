@@ -27,4 +27,5 @@ Everything I've done wrong when submitting or resubmitting a manuscript in a con
 ## Resubmission
 - [ ] When resubmitting, have all co-authors had enough time to comment on the revised manuscript? Have you given them a deadline?
 - [ ] Reread the reviewers' comments - have you missed any in your response?
+- [ ] Have any tables/figures/supplementary table numbers changed, and are these correctly referenced in the text? Is (Table 2) in the text still (Table 2), or should it be (Table 4) now?
 - [ ] If you were the reviewer, would you feel like your concerns were sufficiently addressed?
