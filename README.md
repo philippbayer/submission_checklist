@@ -10,13 +10,15 @@ Everything I've done wrong when submitting or resubmitting a manuscript in a con
 - [ ] If you have any paper-wide set orders of things (like species B, species C, species D), are they consistent in the text, tables, figures?
 - [ ] Are all special words consistently spelled? for example, does the text switch from 'AA-genome' to 'A-genome', or from 'A-genome' to 'A genome'?
 - [ ] Is the paper-title in the coverletter still the same as in the manuscript?
+- [ ] Are your figures color-blind friendly? Check with tools like http://mapeper.github.io/jsColorblindSimulator/ (thanks @Psy_Fer_, @AgnieszkaGolicz, @_erikaroper!)
 - [ ] Is there any leftover placeholder text like (CITATION), doi://XYZ, Table X, [TODO]? 
 - [ ] Have you forgotten a co-author?
 - [ ] Is everyone's name spelled as in their other papers? What about their affiliations?
 - [ ] Reread the journal's formatting rules - are you really following them? Are you sure about the order of your sections, and that you have all sections?
-- [ ] Are your references in the right format? Do you have in-text references not in your References block? Do you have preprints that are now published? Are species names in italics? 
+- [ ] Are your references in the right format? Do you have in-text references not in your References block? Are species names in italics? 
 - [ ] Do you have duplicated references? (You can have Person 2016a and Person 2016b, but they're just two slightly differently spelled entries in your library)
 - [ ] Are species names in your text/figures/tables in italics?
+- [ ] Is your data deposited in the required repositories (SRA, Zenodo etc.), and is the link in the manuscript? (thanks @sarvenaz_s!)
 - [ ] Is your coloring scheme consistent across figures, where applicable?
 - [ ] Are the Supplementary Tables pretty enough, numbers correctly formatted, table headers detailed enough?
 - [ ] In the acknowledgments, are all grants acknowledged with correct IDs? Are students' scholarships acknowledged? Are your institutions (HPC!) acknowledged?
