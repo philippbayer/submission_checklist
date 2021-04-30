@@ -27,6 +27,7 @@ The importance of the below points varies. Some of it, like double references, s
 - [ ] Have you run the spellchecker manually one last time?
 - [ ] Have you uploaded all files the text references, including the cover letter?
 - [ ] Have you clicked the submit button?
+- [ ] Have you been kind to yourself and others?
 
 ## Resubmission
 - [ ] When resubmitting, have all co-authors had enough time to comment on the revised manuscript? Have you given them a deadline?
