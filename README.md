@@ -1,6 +1,8 @@
 # Last checks before submitting any manuscript
 
-Everything I've done wrong when submitting or resubmitting a manuscript in a convenient checklist. The tidier your submission is, the higher your chance of having it accepted.
+Everything I've done wrong when submitting or resubmitting a manuscript in a convenient checklist. 
+
+The importance of the below points varies. Some of it, like double references, should be picked up by journal editors down the track. Inconsistent spelling is often pointed out by peer reviewers. Missed co-authors will only be pointed out to you by the missed co-authors after the paper is out. Problems in supplementary tables are usually ignored by journal editors. The tidier your submission is, the higher your chance of having it accepted!
 
 ## First submission and resubmission
 
