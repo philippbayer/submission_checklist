@@ -13,6 +13,7 @@ The tidier your submission is, the higher your chance of having it accepted!
 - [ ] Are all tables/figures (including supplementary!) referenced in the text?
 - [ ] Does the order of figures, tables, supplementary tables follow the order they're mentioned in the text?
 - [ ] Are the tables in your Supplementary Tables file in the right order, i.e., does Table S2 still follow Table S1?
+- [ ] The publisher often asks for the figure legends in the main text along with the same legends in the separate (Supplementary) Figures and Tables file, are the two legends still identical?
 - [ ] If you have any paper-wide set orders of things (like species B, species C, species D), are they consistent in the text, tables, figures?
 - [ ] Are all special words consistently spelled? for example, does the text switch from 'AA-genome' to 'A-genome', or from 'A-genome' to 'A genome'?
 - [ ] Is the paper-title in the coverletter still the same as in the manuscript?
