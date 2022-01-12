@@ -16,10 +16,11 @@ The tidier your submission is, the higher your chance of having it accepted!
 - [ ] The publisher often asks for the figure legends in the main text along with the same legends in the separate (Supplementary) Figures and Tables file, are the two legends still identical?
 - [ ] If you have any paper-wide set orders of things (like species B, species C, species D), are they consistent in the text, tables, figures?
 - [ ] Are all special words consistently spelled? for example, does the text switch from 'AA-genome' to 'A-genome', or from 'A-genome' to 'A genome'?
-- [ ] Is the paper-title in the coverletter still the same as in the manuscript?
+- [ ] Is the paper-title in the coverletter still the same as in the manuscript? Read the coverletter again
 - [ ] Are your figures color-blind friendly? Check with tools like http://mapeper.github.io/jsColorblindSimulator/ (thanks @Psy_Fer_, @AgnieszkaGolicz, @_erikaroper!)
 - [ ] Is there any leftover placeholder text like (CITATION), doi://XYZ, Table X, [TODO]? 
 - [ ] Have you forgotten a co-author?
+- [ ] Is it obvious from the author order who the corresponding author is/are? I.e., a star, or a cross, or a line with 'Corresponding author: A. Person, a_person@bla'
 - [ ] Is everyone's name spelled as in their other papers? What about their affiliations?
 - [ ] Reread the journal's formatting rules - are you really following them? Are you sure about the order of your sections, and that you have all required sections?
 - [ ] Are your references in the right format? Do you have in-text references not in your References block? Are species names in italics? 
@@ -37,6 +38,7 @@ The tidier your submission is, the higher your chance of having it accepted!
 ## Resubmission
 - [ ] When resubmitting, have all co-authors had enough time to comment on the revised manuscript? Should you follow up with co-authors who haven't sent anything?
 - [ ] Reread the reviewers' comments in the original email/file - have you missed any in your response?
+- [ ] If you're submitting somewhere else, is the coverletter sufficiently changed? Do you still metino some special issue that doesn't exist in the resubmission?
 - [ ] If your co-authors have sent you their suggestions in separate files, have you included them all? Easy to miss one when you have 20 almost-identical Word files! Check your inbox, too!
 - [ ] Have any tables/figures/supplementary table numbers changed, and are these correctly referenced in the text? Is (Table 2) in the text still (Table 2), or should it be (Table 4) now?
 - [ ] If you were the reviewer, would you feel like your concerns were sufficiently addressed?
