@@ -38,7 +38,7 @@ The tidier your submission is, the higher your chance of having it accepted!
 ## Resubmission
 - [ ] When resubmitting, have all co-authors had enough time to comment on the revised manuscript? Should you follow up with co-authors who haven't sent anything?
 - [ ] Reread the reviewers' comments in the original email/file - have you missed any in your response?
-- [ ] If you're submitting somewhere else, is the coverletter sufficiently changed? Do you still metino some special issue that doesn't exist in the resubmission?
+- [ ] If you're submitting somewhere else, is the coverletter sufficiently changed? Do you still mention some special issue that doesn't exist in the resubmission?
 - [ ] If your co-authors have sent you their suggestions in separate files, have you included them all? Easy to miss one when you have 20 almost-identical Word files! Check your inbox, too!
 - [ ] Have any tables/figures/supplementary table numbers changed, and are these correctly referenced in the text? Is (Table 2) in the text still (Table 2), or should it be (Table 4) now?
 - [ ] If you were the reviewer, would you feel like your concerns were sufficiently addressed?
