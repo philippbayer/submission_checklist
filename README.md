@@ -2,7 +2,7 @@
 
 Everything I've done wrong when submitting or resubmitting a manuscript in a convenient checklist. 
 
-The importance of the below points varies. Some of it, like double references, should be picked up by journal editors down the track. Inconsistent spelling is often pointed out by peer reviewers. Missed co-authors will only be pointed out to you by the missed co-authors after the paper is out. Problems in supplementary tables are usually ignored by journal editors. 
+The importance of the below points varies. Some of it, like double references, should be picked up by journal editors down the track. Inconsistent spelling is often pointed out by peer reviewers. Missed co-authors will only be pointed out to you by the missed co-authors after the paper is out. Problems in supplementary tables are usually ignored by journal editors. In the worst case, the journal will return your submission before it goes out to peer-review for you to fix these issues, costing you potentially weeks of time.
 
 Skipping some points can lead to minor embarrassment, some to major embarrassment - why yes *I have* submitted a coverletter with the wrong title of the paper - missing co-authors can have negative career repercussions.
 
