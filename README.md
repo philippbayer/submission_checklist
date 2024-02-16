@@ -32,6 +32,7 @@ The tidier your submission is, the higher your chance of having it accepted!
 - [ ] In the acknowledgments, are all grants acknowledged with correct IDs? Are students' scholarships acknowledged? Are your institutions (HPC!) acknowledged?
 - [ ] Have you run the spellchecker manually one last time?
 - [ ] Have you uploaded all files the text references, including the coverletter?
+- [ ] Have you carefully checked the converted PDF? Sometimes there's an 'Error: Reference source not found' or similar
 - [ ] Have you clicked the submit button?
 - [ ] Have you been kind to yourself and others?
 
